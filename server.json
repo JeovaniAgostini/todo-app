@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "isDone": true,
+            "taskName": "Fazer compras json"
+        },
+        {
+            "id": 2,
+            "isDone": false,
+            "taskName": "Fazer almoço json"
+        },
+        {
+            "id": 3,
+            "isDone": false,
+            "taskName": "Meditar json"
+        }
+    ]
+}
